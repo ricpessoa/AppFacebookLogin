@@ -21,6 +21,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <!--To use Facebook Login or Share, also add the FacebookActivity-->
         <activity android:name="com.facebook.FacebookActivity"
             android:configChanges=
