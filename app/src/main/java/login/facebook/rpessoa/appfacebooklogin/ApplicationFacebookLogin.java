@@ -23,7 +23,7 @@ public class ApplicationFacebookLogin extends Application{
         super.onCreate();
         Log.d(TAG,"Application started");
         FacebookSdk.sdkInitialize(getApplicationContext());
-        getToken();
+        //getToken();
 
     }
 

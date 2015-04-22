@@ -30,7 +30,7 @@
             android:label="@string/app_name" />
         <!--If you're sharing links, images or video via the Facebook for Android app, you also need to declare the FacebookContentProvider in the manifest.-->
 
-        <provider android:authorities="com.facebook.app.FacebookContentProvider736774929776520"
+        <provider android:authorities="com.facebook.app.FacebookContentProvider755954797835762"
             android:name="com.facebook.FacebookContentProvider"
             android:exported="true" />
 
